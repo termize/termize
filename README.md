@@ -1,16 +1,35 @@
-## Hi there 👋
+# Tarmizi Ibrahim
 
-<!--
-**termize/termize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java Developer
 
-Here are some ideas to get you started:
+Returning to software development with a focus on Java, Spring Boot, REST APIs, and modern web application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Focus
+
+- Java
+- Spring Boot
+- REST API
+- Spring Security / JWT
+- SQL / MySQL / H2
+- Git / GitHub
+
+## Current Learning & Projects
+
+I'm currently rebuilding and strengthening my software development skills through hands-on Java and Spring Boot projects.
+
+### Projects
+
+🚧 **Spring Boot CRUD API**  
+RESTful API demonstrating layered architecture, DTOs, validation, pagination, sorting, and database integration.
+
+🚧 **Spring Boot JWT Security**  
+Authentication and authorization using Spring Security and JWT.
+
+🚧 **MultisciPub**  
+A web application project developed as part of my software development experience.
+
+---
+
+📍 Penang, Malaysia
+
+**LinkedIn | GitHub**
